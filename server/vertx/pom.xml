@@ -42,7 +42,7 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 
 		<!-- other versions -->
-		<vertx.version>3.3.3</vertx.version>
+		<vertx.version>4.5.22</vertx.version>
 		<version.exec.plugin>1.4.0</version.exec.plugin>
 
 	</properties>
